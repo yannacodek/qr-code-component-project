@@ -22,7 +22,7 @@ Esta é uma solução para o [desafio do componente de código QR no Frontend Me
 
 ### Links
 
-- Live Site URL: (https://qr-code-component-y.netlify.app/)
+- Live Site URL: (https://yannacodek.github.io/qr-code-component-project/)
 
 ### Construído com
 
